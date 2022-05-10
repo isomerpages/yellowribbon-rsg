@@ -9,7 +9,7 @@ sections:
   - hero:
       title: YRSG MSF Partnership Prototype
       subtitle: JOBS Portal
-      background: /images/yrsg-logo-3d.jpg
+      background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -30,4 +30,3 @@ sections:
       subtitle: Learn more
       button: View More
 ---
-
