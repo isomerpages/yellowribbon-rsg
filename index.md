@@ -2,7 +2,7 @@
 layout: homepage
 title: Isomer Site
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/yrsg-logo-3d.jpg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
@@ -30,3 +30,4 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
