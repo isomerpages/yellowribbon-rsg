@@ -6,7 +6,7 @@ links:
     url: /example-page/
   - title: Example Collection
     collection: example-collection
-  - title: Job Board
-    url: /job-board/
   - title: Resources
     resource_room: true
+  - title: Find Jobs
+    collection: find-jobs
