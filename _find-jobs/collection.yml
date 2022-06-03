@@ -2,4 +2,5 @@ collections:
   find-jobs:
     output: true
     order:
+      - F&B/Test Job Table.md
       - F&B/.keep
