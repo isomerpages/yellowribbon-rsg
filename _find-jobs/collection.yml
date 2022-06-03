@@ -1,4 +1,5 @@
 collections:
   find-jobs:
     output: true
-    order: []
+    order:
+      - Test Job Table.md
