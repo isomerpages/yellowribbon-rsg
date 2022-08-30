@@ -1,7 +1,5 @@
 logo: /images/yrsg-logo-3d.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: Example Page
     url: /example-page/
   - title: Example Collection
@@ -10,3 +8,5 @@ links:
     resource_room: true
   - title: Find Jobs
     collection: find-jobs
+  - title: Contact Us
+    url: /contact-us/
