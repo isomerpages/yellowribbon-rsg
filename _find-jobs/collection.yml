@@ -2,6 +2,7 @@ collections:
   find-jobs:
     output: true
     order:
+      - ICT and Media/Jobs.md
       - ICT and Media/.keep
       - F&B/Test Job Table.md
       - F&B/.keep
