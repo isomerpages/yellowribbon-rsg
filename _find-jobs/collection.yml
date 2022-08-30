@@ -2,4 +2,5 @@ collections:
   find-jobs:
     output: true
     order:
+      - Food and Beverage.md
       - Logistics and Wholesale Trade.md
