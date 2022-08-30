@@ -2,6 +2,7 @@ collections:
   find-jobs:
     output: true
     order:
+      - Construction and Facilities Management.md
       - Retail.md
       - Food and Beverage.md
       - Hospitality.md
