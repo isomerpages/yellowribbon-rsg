@@ -2,6 +2,7 @@ collections:
   find-jobs:
     output: true
     order:
+      - Others.md
       - Environmental Services.md
       - Professional Services.md
       - Healthcare.md
