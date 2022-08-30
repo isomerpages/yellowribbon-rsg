@@ -2,5 +2,6 @@ collections:
   find-jobs:
     output: true
     order:
+      - ICT and Media.md
       - Food and Beverage.md
       - Logistics and Wholesale Trade.md
