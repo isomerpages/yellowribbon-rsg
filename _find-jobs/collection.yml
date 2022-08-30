@@ -3,7 +3,5 @@ collections:
     output: true
     order:
       - Logistics and Wholesale Trade.md
-      - ICT and Media/Jobs.md
-      - ICT and Media/.keep
       - F&B/Test Job Table.md
       - F&B/.keep
