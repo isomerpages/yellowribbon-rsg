@@ -3,25 +3,12 @@ title: Construction and Facilities Management
 permalink: /find-jobs/constructionfm/
 description: ""
 ---
-|Company|Job Title|Location|Salary Range|Link|
-|--------|--------|--------|--------|--------|
-|CALL LADE ENTERPRISES PTE LTD|ASSISTANT ENGINEER | OJT PROVIDED | PERMANENT|Islandwide|\$2200|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/assistant-engineer-ojt-provided-permanent-call-lade-enterprises-1cff5d0d6b1a65129cbfc6d6e26aa678)|
+|ed-permanent-call-lade-enterprises-1cff5d0d6b1a65129cbfc6d6e26aa678)|
 |CARLTON GLASS ENTERPRISE PTE LTD|Production Manager/Assistant Production Manager|D17 Loyang, Changi|\$3200|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/production-managerassistant-production-manager-carlton-glass-enterprise-26258dbea4b298f262027fa7ab70c867)|
 |CARLTON GLASS ENTERPRISE PTE LTD|Delivery Driver (EAST/Up to $2,600/PERM)|D17 Loyang, Changi|\$2000|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/delivery-driver-carlton-glass-enterprise-f6ab9ffd177e8b1fe9b67cae3f13b887)|
 |CBM PTE. LTD.|Technician|Islandwide|\$1800|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/technician-cbm-00cb57b0858f32d6d2a86c85043a3117)|
 |CBM PTE. LTD.|Aircon Technician|Islandwide|\$1800|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/aircon-technician-cbm-78b4d34ff25aff384484ce27caf48306)|
-|CBM PTE. LTD.|Condo Manager|Islandwide|\$3000|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/condo-manager-cbm-9864da54eada6f3a46d45145a3917bf4)|
-|CBM PTE. LTD.|Building Executive|Islandwide|\$3000|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/building-executive-cbm-a6292ebe26cede8df940c1a2a9b3250a)|
-|CBM PTE. LTD.|Licensed Plumber|Islandwide|\$3500|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/licensed-plumber-cbm-bdfc5fa647735787a1eeeebf48aa09da)|
-|CBM PTE. LTD.|Technical Executive|Islandwide|\$3200|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/technical-executive-cbm-c3f5ac819084fbeaaa9e229b027a0aa3)|
-|CBM PTE. LTD.|Facilities Executive|Islandwide|\$3000|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/facilities-executive-cbm-1b62268f04ab82a05a31e943ac383a8f)|
-|CBM PTE. LTD.|Contract Executive|Islandwide|\$3200|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/contract-executive-cbm-edfde8714192620541097b040649bff3)|
-|CBM PTE. LTD.|Quantity Surveyor|Islandwide|\$4000|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/quantity-surveyor-cbm-db209f5c163f5652214e3e432e2ed295)|
-|CBM PTE. LTD.|Building Manager|Islandwide|\$3600|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/building-manager-cbm-067141dbad030ab667b7993ceaff86f7)|
-|CBM PTE. LTD.|Aircon Technician|Islandwide|\$1800|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/aircon-technician-cbm-0c04f42bc28248145b564d0575153f31)|
-|CBM PTE. LTD.|Condo Manager|Islandwide|\$3000|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/condo-manager-cbm-4ba2e1ad1026cfb5689f17377408414b)|
-|CBM PTE. LTD.|Licensed Plumber|Islandwide|\$3500|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/licensed-plumber-cbm-d82599e8180f1f5e1f2f05a06b7042e2)|
-|CONTINENTAL STEEL PTE LTD|Site Coordinator |D22 Jurong, Jurong Island, Tuas|\$3000|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/site-coordinator-continental-steel-d6c60850b58df507aee8cd4d37ad1225)|
+|CBM PTE. LTD.|Condo Manager|Islandwide|\$3000|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/condo-manager-cbm-|D22 Jurong, Jurong Island, Tuas|\$3000|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/site-coordinator-continental-steel-d6c60850b58df507aee8cd4d37ad1225)|
 |CONTINENTAL STEEL PTE LTD|General Worker for Blasting|D22 Jurong, Jurong Island, Tuas|\$1500|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/general-worker-blasting-continental-steel-f64da5a14bcbda55d5342f4acbeba488)|
 |D.I.S. AIRCONDITIONING & ELECTRICAL PTE LTD|RETAIL EXECUTIVE|D14 Geylang, Eunos|\$2500|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/retail-executive-dis-airconditioning-electrical-7515eb8206de9c0c2366318c74e8ff9f)|
 |D.I.S. AIRCONDITIONING & ELECTRICAL PTE LTD|PROJECT ENGINEER|D14 Geylang, Eunos|\$3000|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/project-engineer-dis-airconditioning-electrical-af4033335295216f1a300b92daede46f)|
