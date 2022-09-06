@@ -5,13 +5,7 @@ description: ""
 ---
 |Company|Job Title|Location|Salary Range|Link|
 |--------|--------|--------|--------|--------|
-|CALL LADE ENTERPRISES PTE LTD|ASSISTANT ENGINEER | OJT PROVIDED | PERMANENT|Islandwide|\$2200|[Apply here](https://www.mycareersfu|Company|Job Title|Location|Salary Range|Link|
-|--------|--------|--------|--------|--------|
-|ATALIAN SERVICES PTE. LTD.|Operations Manager|D16 Upper East Coast, Bedok, Eastwood, Kew Drive|\$3500|[Apply here](https://www.mycareersfuture.gov.sg/job/environment/operations-manager-atalian-services-595cddee482db1842d6820b97fd0e5fb)|
-|KIAT LEE LANDSCAPE & BUILDING PTE LTD|Horticulturist / Arborist|D25 Kranji, Woodgrove, Woodlands|\$3600|[Apply here](https://www.mycareersfuture.gov.sg/job/environment/horticulturist-arborist-kiat-lee-landscape-building-335211de3c7ea6e74bd4c6ed246f952e)|
-|KIAT LEE LANDSCAPE & BUILDING PTE LTD|Arborist|D25 Kranji, Woodgrove, Woodlands|\$3800|[Apply here](https://www.mycareersfuture.gov.sg/job/environment/arborist-kiat-lee-landscape-building-2888fe79906d1b12f393681225bb1d62)|
-|TKB C-E CONTRACTOR PTE. LTD.|Horticulturist|Islandwide|\$2400|[Apply here](https://www.mycareersfuture.gov.sg/job/environment/horticulturist-tkb-c-e-contractor-ad4b8dce268cdf79cd149c686aded520)|
-ture.gov.sg/job/building-construction/assistant-engineer-ojt-provided-permanent-call-lade-enterprises-1cff5d0d6b1a65129cbfc6d6e26aa678)|
+|CALL LADE ENTERPRISES PTE LTD|ASSISTANT ENGINEER | OJT PROVIDED | PERMANENT|Islandwide|\$2200|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/assistant-engineer-ojt-provided-permanent-call-lade-enterprises-1cff5d0d6b1a65129cbfc6d6e26aa678)|
 |CARLTON GLASS ENTERPRISE PTE LTD|Production Manager/Assistant Production Manager|D17 Loyang, Changi|\$3200|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/production-managerassistant-production-manager-carlton-glass-enterprise-26258dbea4b298f262027fa7ab70c867)|
 |CARLTON GLASS ENTERPRISE PTE LTD|Delivery Driver (EAST/Up to $2,600/PERM)|D17 Loyang, Changi|\$2000|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/delivery-driver-carlton-glass-enterprise-f6ab9ffd177e8b1fe9b67cae3f13b887)|
 |CBM PTE. LTD.|Technician|Islandwide|\$1800|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/technician-cbm-00cb57b0858f32d6d2a86c85043a3117)|
