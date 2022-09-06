@@ -5,7 +5,7 @@ description: ""
 ---
 |Company|Job Title|Location|Salary Range|Link|
 |--------|--------|--------|--------|--------|
-|CALL LADE ENTERPRISES PTE LTD / ASSISTANT ENGINEER / OJT PROVIDED / PERMANENT|Islandwide|$2200 - $3200|https://www.mycareersfuture.gov.sg/job/building-construction/assistant-engineer-ojt-provided-permanent-call-lade-enterprises-1cff5d0d6b1a65129cbfc6d6e26aa678|
+|CALL LADE ENTERPRISES PTE LTD | ASSISTANT ENGINEER / OJT PROVIDED / PERMANENT|Islandwide|$2200 - $3200|https://www.mycareersfuture.gov.sg/job/building-construction/assistant-engineer-ojt-provided-permanent-call-lade-enterprises-1cff5d0d6b1a65129cbfc6d6e26aa678|
 |CARLTON GLASS ENTERPRISE PTE LTD|Production Manager/Assistant Production Manager|D17 Loyang, Changi|$3200 - $5000|https://www.mycareersfuture.gov.sg/job/building-construction/production-managerassistant-production-manager-carlton-glass-enterprise-26258dbea4b298f262027fa7ab70c867|
 |CARLTON GLASS ENTERPRISE PTE LTD|Delivery Driver (EAST/Up to $2,600/PERM)|D17 Loyang, Changi|$2000 - $3500|https://www.mycareersfuture.gov.sg/job/building-construction/delivery-driver-carlton-glass-enterprise-f6ab9ffd177e8b1fe9b67cae3f13b887|
 |CBM PTE. LTD.|Condo Manager|Islandwide|$3000 - $4000|https://www.mycareersfuture.gov.sg/job/building-construction/condo-manager-cbm-4ba2e1ad1026cfb5689f17377408414b|
