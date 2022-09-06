@@ -3,11 +3,6 @@ title: Food and Beverage
 permalink: /find-jobs/fnb/
 description: F&B jobs
 ---
-|Company|Job Title|Location|Salary Range|Link|
-|--------|--------|--------|--------|--------|
-|CALL LADE ENTERPRISES PTE LTD|Kitchen Crew/ Chef Assistant/ Aljunied/ F&B/  Training Provided|Islandwide|\$1700|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/kitchen-crew-chef-assistant-aljunied-fb-training-provided-call-lade-enterprises-b51922bb63855972403a11a2d78da715)|
-|D&N SINGAPORE PTE. LTD.|Permanent Part Time Service Crew|Islandwide|\$1400|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/permanent-part-time-service-crew-dn-singapore-144da4711d20a44450701bdc9336e814)|
-|D&N SINGAPORE PTE. LTD.|Permanent Part Time Kitchen Crew|Islandwide|\$1400|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/permanent-part-time-kitchen-crew-dn-singapore-f275d2a08979c97f35e05a2aebc97af3)|
 |D&N SINGAPORE PTE. LTD.|Management Trainee|Islandwide|\$2000|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/management-trainee-dn-singapore-163e5e8a20deafdc94792cb9b996c0eb)|
 |D&N SINGAPORE PTE. LTD.|F&B Outlet Manager|Islandwide|\$2700|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/fb-outlet-manager-dn-singapore-4ed8adbcbfbab4b61236e94cf1219d53)|
 |D&N SINGAPORE PTE. LTD.|F&B Assistant Manager|Islandwide|\$2400|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/fb-assistant-manager-dn-singapore-6725abba8afd9232a4d6b1dd53b85941)|
