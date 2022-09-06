@@ -3,10 +3,7 @@ title: Others
 permalink: /find-jobs/others/
 description: ""
 ---
-|Company|Job Title|Location|Salary Range|Link|
-|--------|--------|--------|--------|--------|
-|ABV ENGINEERING PTE LTD|Account Assistant|D16 Upper East Coast, Bedok, Eastwood, Kew Drive|\$2500|[Apply here](https://www.mycareersfuture.gov.sg/job/accounting/account-assistant-abv-engineering-508d5bd6cc6a8b0b1542da8c5a0a4721)|
-|D.I.S. AIRCONDITIONING & ELECTRICAL PTE LTD|Account Assistant|D14 Geylang, Eunos|\$1600|[Apply here](https://www.mycareersfuture.gov.sg/job/accounting/account-assistant-dis-airconditioning-electrical-301c0c0534368c7ba29bda3ac9d97109)|
+(https://www.mycareersfuture.gov.sg/job/accounting/account-assistant-dis-airconditioning-electrical-301c0c0534368c7ba29bda3ac9d97109)|
 |DELUGE FIRE PROTECTION (S.E.A.) PTE LTD|ACCOUNTS ASSISTANT|D22 Jurong, Jurong Island, Tuas|\$2300|[Apply here](https://www.mycareersfuture.gov.sg/job/accounting/accounts-assistant-deluge-fire-protection-631c205fa5ba5488e9b1198c7d02de5d)|
 |KEPPEL FELS LIMITED|Finance Manager (Group Accounts)|D22 Jurong, Jurong Island, Tuas|\$6500|[Apply here](https://www.mycareersfuture.gov.sg/job/accounting/finance-manager-keppel-fels-6b252637636f3ccaf12279c2e65fd668)|
 |KEPPEL FELS LIMITED|Senior/Accountant (Group Accounts)|D22 Jurong, Jurong Island, Tuas|\$3800|[Apply here](https://www.mycareersfuture.gov.sg/job/accounting/senioraccountant-keppel-fels-684eaa5efaae87f3019c031cd9d49805)|
