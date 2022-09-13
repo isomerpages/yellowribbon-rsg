@@ -3,9 +3,7 @@ title: Food and Beverage
 permalink: /find-jobs/fnb/
 description: F&B jobs
 ---
-|Company|Job Title|Location|Salary Range|Link|
-|--------|--------|--------|--------|--------|
-|#LETTER PTE. LTD.|Cook|Islandwide|$1500 - $2000|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/cook-letter-fd8b5a5eb26ebe05a731e7065c01c0e8)|
+|
 |#LETTER PTE. LTD.|Junior Chef|D15 Katong, Joo Chiat, Amber Road|$1800 - $2400|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/junior-chef-letter-6371f290f07c39181e1dafa55973cf49)|
 |2898 CARPENTERS|Outlet Supervisor|D25 Kranji, Woodgrove, Woodlands|$2500 - $3200|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/outlet-supervisor-2898-carpenters-bbe8850d351bdc040c01b27f00fd51e7)|
 |2898 CARPENTERS|Service Crew|D25 Kranji, Woodgrove, Woodlands|$2200 - $2400|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/service-crew-2898-carpenters-1b61e1cf5a903f87721fa645a603a458)|
