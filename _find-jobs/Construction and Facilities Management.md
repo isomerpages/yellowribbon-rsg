@@ -3,11 +3,7 @@ title: Construction and Facilities Management
 permalink: /find-jobs/constructionfm/
 description: ""
 ---
-|Company|Job Title|Location|Salary Range|Link|
-|--------|--------|--------|--------|--------|
-|A N S PLUMBING & SANITARY PTE LTD|Project Engineer|D14 Geylang, Eunos|$2800 - $3800|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/project-engineer-n-s-plumbing-sanitary-b74d11f5a766dcee0e2264a63e14984b)|
- - $3000|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/technician-adecco-personnel-39df03535fc3a19b00c855dbf165d34b)|
-|ADECCO PERSONNEL PTE LTD|Property Manager (Entry-Level / Up-to $4,500 / Town Council)|Islandwide|$3500 - $4500|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/property-manager-adecco-personnel-2c89cf1d3ac9c5c55ce600328c69d2d3)|
+|(https://www.mycareersfuture.gov.sg/job/building-construction/property-manager-adecco-personnel-2c89cf1d3ac9c5c55ce600328c69d2d3)|
 |AEDGE HOLDINGS PTE. LTD.|Lifting Supervisor|D20 Bishan, Ang Mo Kio|$2500 - $3500|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/lifting-supervisor-aedge-holdings-eed7aacea575f3ba573ccf816e025a59)|
 |AIR TECH ENGINEERING AND CONSULTANCY PTE LTD|M&E Executive|D14 Geylang, Eunos|$2200 - $3300|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/me-executive-air-tech-engineering-consultancy-4ba41946dd2b750a51cad5df25714a0d)|
 |AIR TECH ENGINEERING AND CONSULTANCY PTE LTD|Facility/ Building Technician|D14 Geylang, Eunos|$1800 - $2200|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/facility-building-technician-air-tech-engineering-consultancy-5dd7bef3eecd46257a235726e2d4ee53)|
