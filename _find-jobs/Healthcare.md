@@ -3,9 +3,7 @@ title: Healthcare
 permalink: /find-jobs/healthcare/
 description: ""
 ---
-|Company|Job Title|Location|Salary Range|Link|
-|--------|--------|--------|--------|--------|
-|1STEP PEST CONTROL SERVICES PTE. LTD.|Accountant|D18 Tampines, Pasir Ris|$2000 - $5000|[Apply here](https://www.mycareersfuture.gov.sg/job/accounting/accountant-1step-pest-control-services-4eeffc8c8f1f7fbf507b96718a359317)|
+eeffc8c8f1f7fbf507b96718a359317)|
 |1STEP PEST CONTROL SERVICES PTE. LTD.|QA Exec. /Field Biologist / Entomologist|D18 Tampines, Pasir Ris|$3000 - $4500|[Apply here](https://www.mycareersfuture.gov.sg/job/customer-service/qa-exec-field-biologist-entomologist-1step-pest-control-services-90fc4617507e2797cb9cc3cef385f400)|
 |1STEP PEST CONTROL SERVICES PTE. LTD.|Pest Exterminator|D18 Tampines, Pasir Ris|$1800 - $3300|[Apply here](https://www.mycareersfuture.gov.sg/job/customer-service/pest-exterminator-1step-pest-control-services-72e6a36b90d63c58799c62850a744507)|
 |219 FOOD AND BEVERAGE PTE. LTD.|DEMI CHEF|Islandwide|$2500 - $3000|[Apply here](https://www.mycareersfuture.gov.sg/job/customer-service/demi-chef-219-food-beverage-0ce5b73d619d8aed169b20988e8a3dd5)|
