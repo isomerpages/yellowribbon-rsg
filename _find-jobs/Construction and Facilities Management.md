@@ -3,12 +3,7 @@ title: Construction and Facilities Management
 permalink: /find-jobs/constructionfm/
 description: ""
 ---
-|Company|Job Title|Location|Salary Range|Link|
-|--------|--------|--------|--------|--------|
-|A N S PLUMBING & SANITARY PTE LTD|Project Engineer|D14 Geylang, Eunos|$2800 - $3800|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/project-engineer-n-s-plumbing-sanitary-b74d11f5a766dcee0e2264a63e14984b)|
-|A N S PLUMBING & SANITARY PTE LTD|Quantity Surveyor|D14 Geylang, Eunos|$2600 - $3500|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/quantity-surveyor-n-s-plumbing-sanitary-f92a91ed3e624e896a03fdcb43594342)|
-|ABV SYSTEMS PTE LTD|Contract Administrator Assistant|D16 Upper East Coast, Bedok, Eastwood, Kew Drive|$1800 - $2300|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/contract-administrator-assistant-abv-systems-571afa679da13ab78ebb874691f836c1)|
-|ABV SYSTEMS PTE LTD|Quantity Surveyor|D16 Upper East Coast, Bedok, Eastwood, Kew Drive|$1800 - $2300|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/quantity-surveyor-abv-systems-568e341d7d57b6c39e5c359c7e6433ed)|
+
 |ACCESS SYSTEMS TECHNOLOGY PTE LTD|Draftsman|D22 Jurong, Jurong Island, Tuas|$2200 - $3000|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/draftsman-access-systems-technology-b3c70344282cb262a05c6f72b0e25bf3)|
 |ACME ASSOCIATES PTE. LTD.|Database Administrator|D14 Geylang, Eunos|$2500 - $3500|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/database-administrator-acme-associates-7db09dae8aafacd8b97d7a9bfc0e3f7f)|
 |ACME ASSOCIATES PTE. LTD.|Engineer / Senior Engineer|D14 Geylang, Eunos|$3500 - $5000|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/engineer-senior-engineer-acme-associates-de4024f1d35befd32eada0a00694579e)|
