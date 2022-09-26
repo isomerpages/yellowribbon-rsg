@@ -3,7 +3,7 @@ title: Healthcare
 permalink: /find-jobs/healthcare/
 description: ""
 ---
-TTTTTCompany|Job Title|Location|Salary Range|Link|
+|Company|Job Title|Location|Salary Range|Link|
 |--------|--------|--------|--------|--------|
 |1STEP PEST CONTROL SERVICES PTE. LTD.|Accountant|D18 Tampines, Pasir Ris|$2000 - $5000|[Apply here](https://www.mycareersfuture.gov.sg/job/accounting/accountant-1step-pest-control-services-4eeffc8c8f1f7fbf507b96718a359317)|
 |1STEP PEST CONTROL SERVICES PTE. LTD.|QA Exec. /Field Biologist / Entomologist|D18 Tampines, Pasir Ris|$3000 - $4500|[Apply here](https://www.mycareersfuture.gov.sg/job/customer-service/qa-exec-field-biologist-entomologist-1step-pest-control-services-90fc4617507e2797cb9cc3cef385f400)|
@@ -3045,4 +3045,4 @@ TTTTTCompany|Job Title|Location|Salary Range|Link|
 |HT 1 PTE. LTD.|Nutritionist|D20 Bishan, Ang Mo Kio|$3000 - $6000|[Apply here](https://www.mycareersfuture.gov.sg/job/healthcare/nutritionist-ht-1-1cad4f23fb6b880dee731dbb65903bcc)|
 |HT 1 PTE. LTD.|Beauty Manager|D20 Bishan, Ang Mo Kio|$4000 - $8000|[Apply here](https://www.mycareersfuture.gov.sg/job/personal-care/beauty-manager-ht-1-0cbd8637116c8a2bb7a45d0993a992c1)|
 |HT 1 PTE. LTD.|Trainer|Islandwide|$3000 - $6000|[Apply here](https://www.mycareersfuture.gov.sg/job/personal-care/trainer-ht-1-db12cab0986900ddc6a45a355a47bd5e)|
-|HT 1 PTE. LTD.|Branch Manager|Islandwide|$5000 - $10000|[Apply here](https://www.mycareersfuture.gov.sg/job/customer-service/branch-manager-ht-1-8d4587b16b4c1a79f4692a53515c889e)|TTTT
+|HT 1 PTE. LTD.|Branch Manager|Islandwide|$5000 - $10000|[Apply here](https://www.mycareersfuture.gov.sg/job/customer-service/branch-manager-ht-1-8d4587b16b4c1a79f4692a53515c889e)|
