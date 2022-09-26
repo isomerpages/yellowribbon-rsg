@@ -3,7 +3,6 @@ title: Construction and Facilities Management
 permalink: /find-jobs/constructionfm/
 description: ""
 ---
-
 |ACCESS SYSTEMS TECHNOLOGY PTE LTD|Draftsman|D22 Jurong, Jurong Island, Tuas|$2200 - $3000|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/draftsman-access-systems-technology-b3c70344282cb262a05c6f72b0e25bf3)|
 |ACME ASSOCIATES PTE. LTD.|Database Administrator|D14 Geylang, Eunos|$2500 - $3500|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/database-administrator-acme-associates-7db09dae8aafacd8b97d7a9bfc0e3f7f)|
 |ACME ASSOCIATES PTE. LTD.|Engineer / Senior Engineer|D14 Geylang, Eunos|$3500 - $5000|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/engineer-senior-engineer-acme-associates-de4024f1d35befd32eada0a00694579e)|
