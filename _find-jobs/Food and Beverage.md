@@ -5,26 +5,6 @@ description: F&B jobs
 ---
 |Company|Job Title|Location|Salary Range|Link|
 |--------|--------|--------|--------|--------|
-|#LETTER PTE. LTD.|Cook|Islandwide|$1500 - $2000|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/cook-letter-fd8b5a5eb26ebe05a731e7065c01c0e8)|
-|#LETTER PTE. LTD.|Junior Chef|D15 Katong, Joo Chiat, Amber Road|$1800 - $2400|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/junior-chef-letter-6371f290f07c39181e1dafa55973cf49)|
-|2898 CARPENTERS|Outlet Supervisor|D25 Kranji, Woodgrove, Woodlands|$2500 - $3200|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/outlet-supervisor-2898-carpenters-bbe8850d351bdc040c01b27f00fd51e7)|
-|2898 CARPENTERS|Service Crew|D25 Kranji, Woodgrove, Woodlands|$2200 - $2400|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/service-crew-2898-carpenters-1b61e1cf5a903f87721fa645a603a458)|
-|ABR HOLDINGS LIMITED|Dishwasher |Islandwide|$1500 - $1700|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/dishwasher-%E6%B4%97%E7%A2%97%E5%91%98%E5%B7%A5-abr-holdings-f750732a58b42bdd3d0fb7b6d5832ae1)|
-|ABR HOLDINGS LIMITED|Deputy Restaurant Manager|Islandwide|$2500 - $3500|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/deputy-restaurant-manager-abr-holdings-34d9be841b8fa3f18b746435c2000968)|
-|ABR HOLDINGS LIMITED|Assistant Restaurant Manager|Islandwide|$2000 - $3300|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/assistant-restaurant-manager-abr-holdings-cbb9be81f0de6ed4403224f453a96bac)|
-|ABR HOLDINGS LIMITED|Service Supervisor |Islandwide|$1600 - $2600|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/service-supervisor-%E6%9C%8D%E5%8A%A1%E4%B8%BB%E7%AE%A1-abr-holdings-f3d1cbc9652a1eb21ed1dc9a0ac75444)|
-|ABR HOLDINGS LIMITED|Senior Cook / Cook / Commis Cook|Islandwide|$1500 - $2500|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/senior-cook-cook-commis-cook-abr-holdings-b23f03b41fc3146da5bd36a45f8c340c)|
-|ABR HOLDINGS LIMITED|Waiter / Waitress|Islandwide|$1500 - $2500|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/waiter-waitress-abr-holdings-485efe14eb8672046ea5be92a1669298)|
-|ABR HOLDINGS LIMITED|Human Resource Business Partner|D18 Tampines, Pasir Ris|$2000 - $3500|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/human-resource-business-partner-abr-holdings-d34da21c080cc821994645af658cf1ad)|
-|ABR HOLDINGS LIMITED|Junior Sous Chef|Islandwide|$2000 - $3300|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/junior-sous-chef-abr-holdings-3d110a4e6c799395a575defbe354bf71)|
-|AC HESED PTE. LTD.|Management Trainee|Islandwide|$2500 - $3300|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/management-trainee-ac-hesed-ad5dbb0527bc4be8a0f3c069c48c35c2)|
-|AC HESED PTE. LTD.|F&B Supervisor|Islandwide|$2100 - $3100|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/fb-supervisor-ac-hesed-93970711c30b1962eafd1935c5ad5133)|
-|AC HESED PTE. LTD.|F&B Production Crew|D05 Clementi New Town, Hong Leong Garden, Pasir Panjang|$1400 - $1900|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/fb-production-crew-ac-hesed-ada9d999b5e60078b7a6a916d4e106b8)|
-|AC HESED PTE. LTD.|Delivery Driver|D05 Clementi New Town, Hong Leong Garden, Pasir Panjang|$1800 - $2500|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/delivery-driver-ac-hesed-0a480f3c0f72c834bbf88084ef20b3f9)|
-|AC HESED PTE. LTD.|Central Kitchen Manager|D05 Clementi New Town, Hong Leong Garden, Pasir Panjang|$3000 - $4000|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/central-kitchen-manager-ac-hesed-5363999466a68cf909e10dca8750f576)|
-|AC HESED PTE. LTD.|F&B Kiosk Service Crew|Islandwide|$2200 - $2600|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/fb-kiosk-service-crew-ac-hesed-1e4586f4ece0050f9407e935f6cc2df2)|
-|ACE MANAGEMENT SERVICES PTE. LTD.|F&B Supervisor|Islandwide|$2500 - $3800|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/fb-supervisor-ace-management-services-45db2c45977ff369817455ce9b700d2a)|
-|ACE MANAGEMENT SERVICES PTE. LTD.|F&B Service crew|Islandwide|$1800 - $3300|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/fb-service-crew-ace-management-services-2a3539ab147dcc4915681fd7d7fefcef)|
 |AL BORGO PTE. LTD.|CUSTAMER RELATIONS MENAGER|D10 Ardmore, Bukit Timah, Holland Road, Tanglin|$3000 - $8500|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/custamer-relations-menager-al-borgo-32ad6c861ded6babe0b2044a2048e824)|
 |AL BORGO PTE. LTD.|sous chef|D10 Ardmore, Bukit Timah, Holland Road, Tanglin|$6000 - $8000|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/sous-chef-al-borgo-973c9fca8001c4cf0a1983241b68f333)|
 |AL-JILANI RESTAURANT PTE. LTD.|cook|D07 Golden Mile, Middle Road|$1800 - $3500|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/cook-al-jilani-restaurant-c0b1724163511a158c0f52a0c31bdff6)|
