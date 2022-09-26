@@ -3,9 +3,9 @@ title: Construction and Facilities Management
 permalink: /find-jobs/constructionfm/
 description: ""
 ---
-T|Company|Job Title|Location|Salary Range|Link|
+|Company|Job Title|Location|Salary Range|Link|
 |--------|--------|--------|--------|--------|
-|TTA N S PLUMBING & SANITARY PTE LTD|Project Engineer|D14 Geylang, Eunos|$2800 - $3800|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/project-engineer-n-s-plumbing-sanitary-b74d11f5a766dcee0e2264a63e14984b)|
+|A N S PLUMBING & SANITARY PTE LTD|Project Engineer|D14 Geylang, Eunos|$2800 - $3800|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/project-engineer-n-s-plumbing-sanitary-b74d11f5a766dcee0e2264a63e14984b)|
 |A N S PLUMBING & SANITARY PTE LTD|Quantity Surveyor|D14 Geylang, Eunos|$2600 - $3500|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/quantity-surveyor-n-s-plumbing-sanitary-f92a91ed3e624e896a03fdcb43594342)|
 |ABV SYSTEMS PTE LTD|Contract Administrator Assistant|D16 Upper East Coast, Bedok, Eastwood, Kew Drive|$1800 - $2300|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/contract-administrator-assistant-abv-systems-571afa679da13ab78ebb874691f836c1)|
 |ABV SYSTEMS PTE LTD|Quantity Surveyor|D16 Upper East Coast, Bedok, Eastwood, Kew Drive|$1800 - $2300|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/quantity-surveyor-abv-systems-568e341d7d57b6c39e5c359c7e6433ed)|
@@ -629,4 +629,4 @@ T|Company|Job Title|Location|Salary Range|Link|
 |YOSHIMURA FOOD HOLDINGS ASIA PTE. LTD.|Facility Executive|D22 Jurong, Jurong Island, Tuas|$3000 - $4000|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/facility-executive-yoshimura-food-holdings-asia-b947a497148ff7dce95f6915515a2c77)|
 |YU SIN ENGINEERING WORK PTE. LTD.|Technical Manager|Islandwide|$6000 - $8500|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/technical-manager-yu-sin-engineering-work-c32cacc142ffba5d09e14a5362f3668a)|
 |YUEN MAI GLASS MERCHANT PTE LTD|Installation Technician (Glass)|D17 Loyang, Changi|$2500 - $3200|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/installation-technician-yuen-mai-glass-merchant-1633bdf620ce93cdb820ea9367091a38)|
-|ZEBRA BUILDERS PTE. LTD.|Electrician|Islandwide|$1500 - $3000|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/electrician-zebra-builders-1dbaab0b9515d9e10c7a0e2455e16bc2)|T
+|ZEBRA BUILDERS PTE. LTD.|Electrician|Islandwide|$1500 - $3000|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/electrician-zebra-builders-1dbaab0b9515d9e10c7a0e2455e16bc2)|
