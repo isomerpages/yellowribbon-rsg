@@ -3,7 +3,7 @@ title: Food and Beverage
 permalink: /find-jobs/fnb/
 description: F&B jobs
 ---
-TTTT|Company|Job Title|Location|Salary Range|Link|
+|Company|Job Title|Location|Salary Range|Link|
 |--------|--------|--------|--------|--------|
 |#LETTER PTE. LTD.|Junior Barista|Islandwide|$1900 - $2400|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/junior-barista-letter-7d7f708592172fa6ef8ee32a53689e0b)|
 |219 FOOD AND BEVERAGE PTE. LTD.|SENIOR COOKS|Islandwide|$2500 - $3000|[Apply here](https://www.mycareersfuture.gov.sg/job/food-and-beverage/senior-cooks-219-food-beverage-bbe9f044c3f64da751310807772bccc1)|
