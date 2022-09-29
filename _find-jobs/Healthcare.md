@@ -3,7 +3,7 @@ title: Healthcare
 permalink: /find-jobs/healthcare/
 description: ""
 ---
-TTTT|Company|Job Title|Location|Salary Range|Link|
+|Company|Job Title|Location|Salary Range|Link|
 |--------|--------|--------|--------|--------|
 |25 HOLDINGS PTE. LTD.|Veterinary Technicians|Islandwide|$2000 - $3600|[Apply here](https://www.mycareersfuture.gov.sg/job/healthcare/veterinary-technicians-25-holdings-16696792902ebf1ae6e34ea471ba852f)|
 |ACTIVE GLOBAL RESPITE CARE PTE. LTD.|Healthcare Assistant - Home Care|Islandwide|$1600 - $2350|[Apply here](https://www.mycareersfuture.gov.sg/job/healthcare/healthcare-assistant-home-care-active-global-respite-care-d6103ab2dff41dbb83a76da27494a1b2)|
