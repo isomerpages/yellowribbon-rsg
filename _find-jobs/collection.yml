@@ -2,7 +2,6 @@ collections:
   find-jobs:
     output: true
     order:
-      - Others 2.md
       - Construction and Facilities Management.md
       - Environmental Services.md
       - Food and Beverage.md
@@ -13,4 +12,5 @@ collections:
       - Manufacturing.md
       - Professional Services.md
       - Retail.md
+      - Others 2.md
       - Others.md
