@@ -7,8 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: YRSG MSF Partnership Prototype
-      subtitle: JOBS Portal
+      title: Partners' Repository and Engagement Platform
+      subtitle: One stop platform for all YRSG partners
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
