@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CFM/.keep
-      - Construction and Facilities Management.md
       - Environmental Services.md
       - Food and Beverage.md
       - Healthcare.md
