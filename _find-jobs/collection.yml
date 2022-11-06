@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Construction and Facilities Management.md
+      - CFM/G to L.md
       - CFM/A to F.md
       - CFM/.keep
       - Environmental Services.md
