@@ -2,10 +2,10 @@ collections:
   find-jobs:
     output: true
     order:
-      - Construction and Facilities Management.md
       - CFM/.keep
       - CFM/A to F.md
       - CFM/G to L.md
+      - Construction and Facilities Management.md
       - Environmental Services.md
       - Food and Beverage.md
       - Healthcare.md
