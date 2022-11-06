@@ -3,6 +3,8 @@ title: Construction and Facilities Management
 permalink: /find-jobs/constructionfm/
 description: ""
 ---
+Common jobs in this sector include General Workers, Technicians (Building, Electrical, Lift, Mechanical, Plumbing), Project Engineers, Site and Safety Supervisors. Sorted by posted job date (most recent at the bottom). Use Ctr+F to search by company or job title.
+
 |Company|Job Title|Location|Salary Range|Link|
 |--------|--------|--------|--------|--------|
 |A N S PLUMBING & SANITARY PTE LTD|Project Engineer|D14 Geylang, Eunos|$2800 - $3800|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/project-engineer-n-s-plumbing-sanitary-b74d11f5a766dcee0e2264a63e14984b)|
