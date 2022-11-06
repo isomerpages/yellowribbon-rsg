@@ -16,9 +16,9 @@ sections:
         - title: About Us
           description: Yellow Ribbon
           url: https://yellowribbon.gov.sg
-        - title: Jobs
-          description: Jobs Availabiility
-          url: https://www.yellowribbon.gov.sg/partnership-programmes/employer-engagement
+        - title: Find Jobs
+          description: ""
+          url: https://yellowribbon-rsg-staging.netlify.app/find-jobs/constructionfm/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
