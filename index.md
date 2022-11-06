@@ -17,7 +17,7 @@ sections:
           description: Yellow Ribbon
           url: https://yellowribbon.gov.sg
         - title: Find Jobs
-          description: ""
+          description: Job Vacancies
           url: https://yellowribbon-rsg-staging.netlify.app/find-jobs/constructionfm/
   - infobar:
       title: Infobar title
