@@ -32,9 +32,4 @@ sections:
       title: Media
       subtitle: Learn more
       button: View More
-  - infobar:
-      title: A one-stop guide to inclusive hiring
-      subtitle: For Employers
-      button: find out more
-      url: /resources
 ---
