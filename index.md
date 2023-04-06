@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Partners' Repository and Engagement Platform
       subtitle: One stop platform for all YRSG partners
-      background: /images/hero-banner.png
+      background: /images/yr-hero-banner.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
