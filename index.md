@@ -22,12 +22,12 @@ sections:
         - title: Info for Employers
           description: Process and download materials
           url: ""
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Efficient. Fuss-free. Effective
+      subtitle: Why PREP?
+      button: Find out more about PREP
+      url: /contact-us
+      alt: Image alt text
   - resources:
       title: Media
       subtitle: Learn more
