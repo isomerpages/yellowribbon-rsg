@@ -2,10 +2,8 @@ logo: /images/yrsg-logo-3d.jpg
 links:
   - title: About Us
     url: /about-us/
-  - title: Example Collection
-    collection: example-collection
   - title: Resources
-    resource_room: true
+    collection: resources
   - title: Find Jobs
     collection: find-jobs
   - title: Contact Us
