@@ -18,8 +18,8 @@ contacts:
   - content:
       - phone: ""
       - email: Employment@yellowribbon.gov.sg
-      - other: "Main Website: https://www.yellowribbon.gov.sg/"
-    title: General Enquiries & Feedback
+      - other: ""
+    title: Employers
   - content:
       - phone: ""
       - email: career_services@yellowibbon.gov.sg
