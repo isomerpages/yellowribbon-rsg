@@ -3,9 +3,9 @@ title: Construction and Facilities Management
 permalink: /find-jobs/constructionfm/
 description: ""
 ---
+Use **Ctr+F** to search by company or job title. 
 
-
-Common jobs in this sector include General Workers, Technicians (Building, Electrical, Lift, Mechanical, Plumbing), Project Engineers, Site and Safety Supervisors. Sorted by posted job date (most recent at the bottom). Use **Ctr+F** to search by company or job title.
+Common jobs in this sector include General Workers, Technicians (Building, Electrical, Lift, Mechanical, Plumbing), Project Engineers, Site and Safety Supervisors. Sorted by posted job date (most recent at the bottom). 
 
 |Company|Job Title|Location|Salary Range|Link|
 |--------|--------|--------|--------|--------|
