@@ -13,12 +13,12 @@ locations:
         time: 8.30am - 6.00pm
         description: Closed on Public Holidays
     maps_link: ""
-    title: Employer Outreach
+    title: Office
 contacts:
   - content:
       - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - email: Employment@yellowribbon.gov.sg
+      - other: "Main Website: https://www.yellowribbon.gov.sg/"
     title: General Enquiries & Feedback
   - content:
       - phone: ""
