@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Media Features/Official Launch.md
       - Media Features/.keep
       - For Employers/Handbook.md
       - For Employers/.keep
