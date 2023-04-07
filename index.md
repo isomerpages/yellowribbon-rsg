@@ -10,26 +10,12 @@ sections:
       title: Partners' Repository and Engagement Platform
       subtitle: One stop platform for all YRSG partners
       background: /images/yr-hero-banner.jpg
-      button: Contact Us
-      url: /contact-us/
-      key_highlights:
-        - title: About Us
-          description: Yellow Ribbon
-          url: https://yellowribbon.gov.sg
-        - title: Find Jobs
-          description: Job Vacancies
-          url: https://yellowribbon-rsg-staging.netlify.app/find-jobs/constructionfm/
-        - title: Info for Employers
-          description: Process and download materials
-          url: ""
+      button: About
+      url: /about-us
   - infopic:
       title: Efficient. Fuss-free. Effective
       subtitle: Why PREP?
       button: Find out more about PREP
       url: /contact-us
       alt: Image alt text
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
 ---
