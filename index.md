@@ -4,7 +4,7 @@ title: PREP
 description: An Isomer site of the Singapore Government
 image: /images/yrsg-logo-3d.jpg
 permalink: /
-notification: This is a testing site
+notification: ""
 sections:
   - hero:
       title: Partners' Repository and Engagement Platform
