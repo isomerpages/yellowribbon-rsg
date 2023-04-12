@@ -3,7 +3,7 @@ url: https://yellowribbon.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#6031b6"
-  secondary-color: "#d4ed31"
+  secondary-color: "#BED813"
   media-colors:
     - title: media-color-one
       color: "#49759a"
