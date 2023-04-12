@@ -16,4 +16,21 @@ sections:
       button: Find out more about PREP
       url: /contact-us
       alt: Image alt text
+  - infopic:
+      title: For Employer
+      description: Handbooks, FAQs and more
+      button: Click here
+      url: /resources/for-employer
+      alt: Image alt text
+  - infopic:
+      title: For Job Seekers
+      description: Find jobs by industry
+      button: Click here
+      url: /find-jobs
+      alt: Image alt text
+  - infopic:
+      title: Media Features
+      button: Click here
+      url: /media-features
+      alt: Image alt text
 ---
