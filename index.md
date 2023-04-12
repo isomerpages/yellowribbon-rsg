@@ -14,7 +14,7 @@ sections:
       title: Efficient. Fuss-free. Effective
       subtitle: Why PREP?
       button: Find out more about PREP
-      url: /contact-us
+      url: /about-us
       alt: Image alt text
       image: /images/unsplash_placceholder.jpg
   - infopic:
