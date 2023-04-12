@@ -2,8 +2,8 @@ title: PREP
 url: https://yellowribbon.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#F0BF4C"
+  primary-color: "#F0BF4C"
+  secondary-color: "232528C"
   media-colors:
     - title: media-color-one
       color: "#49759a"
