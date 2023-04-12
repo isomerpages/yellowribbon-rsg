@@ -21,7 +21,7 @@ sections:
       title: For Employer
       description: Handbooks, FAQs and more
       button: Click here
-      url: /resources/for-employer
+      url: /resources/for-employer/faqs
       alt: Image alt text
       image: /images/wsg_jtm_placeholder.JPG
   - infopic:
