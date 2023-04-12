@@ -34,7 +34,7 @@ sections:
   - infopic:
       title: Media Features
       button: Click here
-      url: /media-features
+      url: /resources/
       alt: Image alt text
       image: /images/unsplash_placceholder.jpg
 ---
