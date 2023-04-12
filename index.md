@@ -28,7 +28,7 @@ sections:
       title: For Job Seekers
       description: Find jobs by industry
       button: Click here
-      url: /find-jobs
+      url: find-jobs/constructionfm/
       alt: Image alt text
       image: /images/mcf_banner1.JPG
   - infopic:
