@@ -37,6 +37,4 @@ sections:
       url: /resources/
       alt: Image alt text
       image: /images/unsplash_placceholder.jpg
-  - resources:
-      title: Updates
 ---
