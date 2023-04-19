@@ -2,7 +2,4 @@ collections:
   resources:
     output: true
     order:
-      - For Employers/FAQs.md
-      - For Employers/.keep
-      - For Employers/Handbook.md
       - For Job Seekers.md
