@@ -38,11 +38,6 @@ sections:
       url: /resources/
       alt: Image alt text
       image: /images/unsplash_placceholder.jpg
-  </h1>
  </div>
- <style>
- .landing-page {
-   color: #F0BF4C
-   }
- </style>
+
 ---
