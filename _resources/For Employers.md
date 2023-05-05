@@ -14,9 +14,7 @@ Welcome....
 
 
 
-[](/files/employer%20handbook.pdf)[](/files/employer%20faqs.pdf)
 
-##Can do a split?
 
 <span style="color:green;font-weight:700;font-size:20px">
     markdown color font styles
@@ -25,12 +23,13 @@ Welcome....
 <div class="flex-container">
 
   <div class="flex-child handbook">
-    Handbook
-    <p>Hello</p>
+      <h2>Employer Handbook</h2>
+    [](/files/employer%20handbook.pdf)
   </div>
   
   <div class="flex-child faq">
-    FAQ
+      <h2>Employer FAQs</h2>
+      [](/files/employer%20faqs.pdf)
   </div>
   
 </div>
