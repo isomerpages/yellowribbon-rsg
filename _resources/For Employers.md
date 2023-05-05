@@ -24,12 +24,12 @@ Welcome....
 
   <div class="flex-child handbook">
       <h2>Employer Handbook</h2>
-    [](/files/employer%20handbook.pdf)
+    [Employer Handbook](/files/employer%20handbook.pdf)
   </div>
   
   <div class="flex-child faq">
       <h2>Employer FAQs</h2>
-      [](/files/employer%20faqs.pdf)
+     [Employer FAQs](/files/employer%20faqs.pdf)
   </div>
   
 </div>
