@@ -29,7 +29,7 @@ Welcome....
   
   <div class="flex-child faq">
       <h2>Employer FAQs</h2>
-     [Employer FAQs](/files/employer%20faqs.pdf)
+      <p>Employer FAQs <a href="/files/employer%20faqs.pdf">Test</a>
   </div>
   
 </div>
