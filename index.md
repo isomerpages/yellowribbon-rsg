@@ -10,6 +10,8 @@ sections:
       title: Partners' Repository and Engagement Platform
       subtitle: One stop platform for all YRSG partners
       background: /images/yr-hero-banner.jpg
+      
+<div class = landing-page>
   - infopic:
       title: Efficient. Fuss-free. Effective
       subtitle: Why PREP?
@@ -37,4 +39,11 @@ sections:
       url: /resources/
       alt: Image alt text
       image: /images/unsplash_placceholder.jpg
+  </h1>
+ </div>
+ <style>
+ .landing-page {
+   color: #F0BF4C
+   }
+ </style>
 ---
