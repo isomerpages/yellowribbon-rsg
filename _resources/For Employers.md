@@ -7,30 +7,19 @@ Welcome....
 
 
 
+Some text
 
-| Employer Handbook | Employer FAQs | 
-| -------- | -------- | 
-| [](/files/employer%20handbook.pdf)     | [](/files/employer%20handbook.pdf)    | 
-
-
-
-
-
-<span style="color:green;font-weight:700;font-size:20px">
-    markdown color font styles
-</span>
 
 <div class="flex-container">
 
   <div class="flex-child handbook">
-      <h2>Employer Handbook</h2>
-    [Employer Handbook](/files/employer%20handbook.pdf)
+		<p><strong>Employer Handbook</strong>
+		<a href="/files/employer%20handbook.pdf"></a></p>
   </div>
   
   <div class="flex-child faq">
-      <h2>Employer FAQs</h2>
-      <p>Employer FAQs <a href="/files/employer%20faqs.pdf">Test</a>
-  </div>
+		<p><strong>Employer FAQs</strong><a href="/files/employer%20faqs.pdf"> </a>
+  </p></div>
   
 </div>
 <style>
