@@ -4,10 +4,11 @@
 
 @charset "utf-8";
 
-// Agency brand colors
+// Agency brand colors -- added primary-landing color
 $primary: {{- site.colors.primary-color -}};
 $secondary: {{- site.colors.secondary-color -}};
 $secondary-hover: lighten($secondary, 10%);
+$primary-landing: darken($primary, 10%);
 
 {%- for media-color in site.colors.media-colors -%}
   ${{- media-color.title -}}: {{- media-color.color -}};
@@ -113,13 +114,16 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
-// Text color
+// Text color -- added primary-landing color
 .has-text-primary {
 	color: $primary !important;
 }
 .has-text-secondary {
 	color: $secondary !important;
 }
+.has-text-primary-landing {
+	color: $primary-landing !important;
+}	  
 
 // Menu/Left-nav
 .bp-menu-list a.is-active {
@@ -145,9 +149,9 @@ $desktop: 960px + (2 * $gap) !default;
   color: $secondary;
 }
 
-// Secondary button
+// Secondary button -- changed color to primary-landing
 .bp-sec-button {
-	color: $secondary;
+	color: $primary-landing;
 	& span {
 		border-bottom: 2px solid $secondary !important;
 	}
