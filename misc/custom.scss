@@ -340,12 +340,18 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
-.bp-container h1{
-  @if background-color : $primary  {
-    color: $secondary !important;
-  } @else {
+// .bp-container h1{
+//   @if background-color : $primary  {
+//     color: $secondary !important;
+//   } @else {
+//     color: $primary !important;
+//   }
+// }
+
+.bp-container {
+  .col .is-half {
     color: $primary !important;
   }
-  
 }
+
 
