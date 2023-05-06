@@ -11,7 +11,7 @@ sections:
       subtitle: One stop platform for all YRSG partners
       background: /images/yr-hero-banner.jpg     
   - infopic:
-      title: <h1 class = "has-text-primary-landing"><strong>Efficient. Fuss-free. Effective</strong></h1>
+      title: <span class = "has-text-primary-landing">Efficient. Fuss-free. Effective</span>
       subtitle: Why PREP?
       button: Find out more about PREP
       url: /about-us
