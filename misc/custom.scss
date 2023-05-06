@@ -304,7 +304,6 @@ $desktop: 960px + (2 * $gap) !default;
   padding: 2rem;
   margin-top: -5rem;
   background-color: white;
-  color: $primary;
 }
 
 .tag {
@@ -339,4 +338,8 @@ $desktop: 960px + (2 * $gap) !default;
   @include touch() {
     width: 100%;
   }
+}
+
+.bp-container {
+  color: $primary !important;
 }
