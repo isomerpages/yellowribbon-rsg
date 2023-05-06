@@ -13,6 +13,7 @@ sections:
   - infopic:
       title: Efficient. Fuss-free. Effective
       subtitle: Why PREP?
+      {: class="my-custom-class-yl"}
       button: Find out more about PREP
       url: /about-us
       alt: Image alt text
