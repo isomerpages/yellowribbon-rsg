@@ -340,6 +340,10 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
+.bp-container h1{
+    color: $primary !important;
+}
+
 .bp-container {
-  color: $primary !important;
+    color: $primary !important;
 }
