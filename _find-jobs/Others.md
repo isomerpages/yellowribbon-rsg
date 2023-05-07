@@ -3,6 +3,10 @@ title: Others
 permalink: /find-jobs/others/
 description: ""
 ---
+Use **Ctr+F** to search by company or job title.
+
+Jobs which require competencies across more than one sector. Sorted by posted job date (most recent at the bottom).
+
 |Company|Job Title|Location|Salary Range|Link|
 |--------|--------|--------|--------|--------|
 |1STEP PEST CONTROL SERVICES PTE. LTD.|Pest Exterminator|Islandwide|$2500 - $3300|[Apply here](https://www.mycareersfuture.gov.sg/job/customer-service/pest-exterminator-1step-pest-control-services-70d1de5ddce4d8b78b255f210ee2d1ea)|
