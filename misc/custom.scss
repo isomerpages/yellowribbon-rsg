@@ -114,18 +114,13 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
-// Text color -- added primary-landing color. Added condition for has-text-secondary
+// Text color -- added primary-landing color. Changed has-text-secondary to $primary color
 .has-text-primary {
 	color: $primary !important;
 }
 .has-text-secondary {
-	@if url("https://yellowribbon-rsg-staging.netlify.app/") {
-    color: $primary !important;
-  } @else {
-    color: $secondary !important;
-  } 
-}
-
+  color: $primary !important;
+} 
 .has-text-primary-landing {
 	color: $primary-landing !important;
 }	  
