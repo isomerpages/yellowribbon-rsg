@@ -114,13 +114,18 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
-// Text color -- added primary-landing color
+// Text color -- added primary-landing color. Added condition for has-text-secondary
 .has-text-primary {
 	color: $primary !important;
 }
 .has-text-secondary {
-	color: $secondary !important;
+	@if url("https://yellowribbon-rsg-staging.netlify.app/") {
+    color: $primary !important;
+  } @else {
+    color: $secondary !important;
+  } 
 }
+
 .has-text-primary-landing {
 	color: $primary-landing !important;
 }	  
@@ -354,11 +359,4 @@ $desktop: 960px + (2 * $gap) !default;
 //     color: $primary !important;
 //   }
 // }
-
-.bp-container.news-content {
-  
-  color: $primary !important;
-  
-}
-
 
