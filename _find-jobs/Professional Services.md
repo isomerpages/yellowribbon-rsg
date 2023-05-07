@@ -3,6 +3,10 @@ title: Professional Services
 permalink: /find-jobs/professionalservices/
 description: ""
 ---
+Use **Ctr+F** to search by company or job title.
+
+Jobs mainly comprise roles which require professional certifications, e.g. Accountancy, Engineering. Sorted by posted job date (most recent at the bottom).
+
 |Company|Job Title|Location|Salary Range|Link|
 |--------|--------|--------|--------|--------|
 |1STEP PEST CONTROL SERVICES PTE. LTD.|Quality Assurance Manager|Islandwide|$4000 - $7500|[Apply here](https://www.mycareersfuture.gov.sg/job/risk-management/quality-assurance-manager-1step-pest-control-services-e47a01d057797f473b0b5ba1f4362d42)|
