@@ -3,6 +3,10 @@ title: Retail
 permalink: /find-jobs/retail/
 description: ""
 ---
+Use **Ctr+F** to search by company or job title.
+
+Common jobs in this sector include customer service, marketing and sales positions. Sorted by posted job date (most recent at the bottom).
+
 |Company|Job Title|Location|Salary Range|Link|
 |--------|--------|--------|--------|--------|
 |ABSOLUTE KINETICS CONSULTANCY PTE LTD|Sales & Marketing Executive |D23 Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang|$3000 - $3500|[Apply here](https://www.mycareersfuture.gov.sg/job/sales/sales-marketing-executive-absolute-kinetics-consultancy-7104d7bcba13ff8769ca668535526d55)|
