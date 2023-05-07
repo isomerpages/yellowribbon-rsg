@@ -3,6 +3,10 @@ title: Hospitality
 permalink: /find-jobs/Hospitality/
 description: Hotels and tourism-related jobs
 ---
+Use **Ctr+F** to search by company or job title.
+
+Common jobs in this sector include customer service, facilities management and office positions. Sorted by posted job date (most recent at the bottom).
+
 |Company|Job Title|Location|Salary Range|Link|
 |--------|--------|--------|--------|--------|
 |AC HESED PTE. LTD.|store managers|Islandwide|$2600 - $3200|[Apply here](https://www.mycareersfuture.gov.sg/job/hospitality/store-managers-ac-hesed-058f8922f47e26304de665fbb670b16d)|
