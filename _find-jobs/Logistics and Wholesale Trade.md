@@ -3,6 +3,10 @@ title: Logistics and Wholesale Trade
 permalink: /find-jobs/logs/
 description: Jobs in the logistics and wholesale trade sector
 ---
+Use **Ctr+F** to search by company or job title.
+
+Common jobs in this sector include drivers, delivery/warehouse assistants and logistics executives. Sorted by posted job date (most recent at the bottom).
+
 |Company|Job Title|Location|Salary Range|Link|
 |--------|--------|--------|--------|--------|
 |A-SONIC LOGISTICS PTE. LTD.|Bus Driver|Islandwide|$2050 - $3500|[Apply here](https://www.mycareersfuture.gov.sg/job/logistics/bus-driver-a-sonic-logistics-2a2d7ed655fcb16b5ec611f8ce2f6ca9)|
