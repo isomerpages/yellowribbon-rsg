@@ -3,6 +3,11 @@ title: Healthcare
 permalink: /find-jobs/healthcare/
 description: ""
 ---
+Use **Ctr+F** to search by company or job title.
+
+Common jobs in this sector include emergency medical technicians, healthcare attendants and social workers. 
+Sorted by posted job date (most recent at the bottom).
+
 |Company|Job Title|Location|Salary Range|Link|
 |--------|--------|--------|--------|--------|
 |25 HOLDINGS PTE. LTD.|Veterinary Technicians|Islandwide|$2000 - $3600|[Apply here](https://www.mycareersfuture.gov.sg/job/healthcare/veterinary-technicians-25-holdings-16696792902ebf1ae6e34ea471ba852f)|
