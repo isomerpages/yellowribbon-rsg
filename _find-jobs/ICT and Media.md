@@ -3,6 +3,10 @@ title: ICT and Media
 permalink: /find-jobs/ictmedia/
 description: ICT and Media jobs
 ---
+Use **Ctr+F** to search by company or job title.
+
+Common jobs in this sector include content developers, ICT technicians and software developers. Sorted by posted job date (most recent at the bottom).
+
 |Company|Job Title|Location|Salary Range|Link|
 |--------|--------|--------|--------|--------|
 |99 PTE. LTD.|Content Producer (Blog/Editorial)|D05 Clementi New Town, Hong Leong Garden, Pasir Panjang|$4400 - $5599|[Apply here](https://www.mycareersfuture.gov.sg/job/advertising/content-producer-99-9d2fdd2491632fc348e98ff518bef76c)|
