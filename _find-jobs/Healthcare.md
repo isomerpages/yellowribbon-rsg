@@ -5,8 +5,7 @@ description: ""
 ---
 Use **Ctr+F** to search by company or job title.
 
-Common jobs in this sector include emergency medical technicians, healthcare attendants and social workers. 
-Sorted by posted job date (most recent at the bottom).
+Common jobs in this sector include emergency medical technicians, healthcare attendants and social workers. Sorted by posted job date (most recent at the bottom).
 
 |Company|Job Title|Location|Salary Range|Link|
 |--------|--------|--------|--------|--------|
