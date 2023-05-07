@@ -3,6 +3,10 @@ title: Manufacturing
 permalink: /find-jobs/manufacturing/
 description: Food manufacturing and general manufacturing
 ---
+Use **Ctr+F** to search by company or job title.
+
+Common jobs in this sector include maintenance technicians, production workers and QA/QC technicians. Sorted by posted job date (most recent at the bottom).
+
 |Company|Job Title|Location|Salary Range|Link|
 |--------|--------|--------|--------|--------|
 |A & ONE PRECISION ENGINEERING PTE. LTD.|Assembly Technician @ Loyang|D17 Loyang, Changi|$1700 - $2000|[Apply here](https://www.mycareersfuture.gov.sg/job/manufacturing/assembly-technician-loyang-one-precision-engineering-e5350f564d0ef30241b7e3ddc0a1eb37)|
