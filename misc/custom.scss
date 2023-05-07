@@ -138,15 +138,15 @@ $desktop: 960px + (2 * $gap) !default;
 	border-bottom: 1px solid $secondary !important;
 }
 
-// Button
+// Button -- changed bp-button to $primary
 
 .bp-button.is-text span {
   &:hover, &:focus {
-    color: $secondary;
+    color: $primary;
   }
 }
 .bp-button:hover {
-  color: $secondary;
+  color: $primary;
 }
 
 // Secondary button -- changed color to primary-landing
