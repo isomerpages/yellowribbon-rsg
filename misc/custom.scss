@@ -138,30 +138,30 @@ $desktop: 960px + (2 * $gap) !default;
 	border-bottom: 1px solid $secondary !important;
 }
 
-// Button -- changed bp-button to $primary
+// Button
 
 .bp-button.is-text span {
   &:hover, &:focus {
-    color: $primary;
+    color: $secondary;
   }
 }
 .bp-button:hover {
-  color: $primary;
+  color: $secondary;
 }
 
-// Secondary button -- changed color to primary-landing
+// Secondary button -- changed color to primary-landing or primary
 .bp-sec-button {
 	color: $primary-landing;
 	& span {
-		border-bottom: 2px solid $secondary !important;
+		border-bottom: 2px solid $primary !important; //used to be $secondary
 	}
 	&:hover {
 		& span {
-	    	border-bottom: 2px solid $secondary-hover !important;
-	    	color: $secondary-hover !important;
+	    	border-bottom: 2px solid $primary !important; //used to be $secondary-hover
+	    	color: $primary !important; //used to be $secondary-hover
 	  	}
 	  	& i {
-	    	color: $secondary-hover !important;
+	    	color: $primary !important; //used to be $secondary-hover
 	  	}
 	}
 }
@@ -304,6 +304,7 @@ $desktop: 960px + (2 * $gap) !default;
   padding: 2rem;
   margin-top: -5rem;
   background-color: white;
+  color: primary !important //added
 }
 
 .tag {
