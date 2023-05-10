@@ -3,12 +3,9 @@ title: For Employers
 permalink: /resources/for-employers/
 description: ""
 ---
-Welcome....
+To begin the journey of inclusive hiring, YRSG has compiled a series of comprehensive material for our Employer Partners as reference.
 
-
-
-Some text
-
+In the Employer Handbook, we have summarised the hiring process, support schemes and resources available. The accompanying Frequently Asked Questions (FAQs) contains would provide answers to the common queries received from other employers.
 
 <div class="flex-container">
 
