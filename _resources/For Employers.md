@@ -22,13 +22,13 @@ In the Employer Handbook, we have summarised the hiring process, support schemes
 <style>
 .flex-container {
     display: flex;
-	  background: yellow
+	  background-color: yellow
 }
 
 .flex-child {
     flex: 1;
     border: 2px solid yellow;
-	  background: yellow
+	  background-color: yellow
 }  
 
 .flex-child:first-child {
