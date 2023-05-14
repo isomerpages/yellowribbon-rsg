@@ -7,9 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Partners' Repository and Engagement Platform
-      subtitle: One stop platform for all YRSG partners
-      background: /images/yr-hero-banner.jpg     
+      background: /images/prep_hero_banner.png
   - infopic:
       title: Efficient. Fuss-free. Effective
       subtitle: Why PREP?
@@ -37,5 +35,4 @@ sections:
       url: /resources/
       alt: Image alt text
       image: /images/unsplash_placceholder.jpg
-
 ---
