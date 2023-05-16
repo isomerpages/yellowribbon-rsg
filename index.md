@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/prep_hero_banner.png
+      background: /images/prep_hero_banner_w_title.jpeg
   - infopic:
       title: Efficient. Fuss-free. Effective
       subtitle: Why PREP?
