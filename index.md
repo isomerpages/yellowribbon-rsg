@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Partners' Repository and Engagement Portal
-      background: /images/prep_hero_banner_1.jpeg
+      background: /images/prep_collage.jpeg
   - infopic:
       title: Efficient. Fuss-free. Effective
       subtitle: Why PREP?
