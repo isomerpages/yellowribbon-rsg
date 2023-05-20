@@ -7,32 +7,32 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/prep_collage1.jpeg
+      background: /images/Homepage_pic/prep_hero_banner.jpeg
   - infopic:
-      title: Efficient. Fuss-free. Effective
-      subtitle: Why PREP?
-      button: Find out more about PREP
+      title: What is PREP?
+      button: Find out more here
       url: /about-us
       alt: Image alt text
-      image: /images/unsplash_placceholder.jpg
+      image: /images/Homepage_pic/what_is_ prep.jpeg
   - infopic:
-      title: For Employer
-      description: Handbooks, FAQs and more
+      title: Resources
+      description: Handbooks, FAQs - all available in one place for both employers and
+        job seekers
       button: Click here
       url: /for-employer/faqs
       alt: Image alt text
-      image: /images/wsg_jtm_placeholder.JPG
+      image: /images/Homepage_pic/resources.jpeg
   - infopic:
-      title: For Job Seekers
-      description: Find jobs by industry
+      title: Career Opportunities
+      description: Find jobs by industry, location and more
       button: Click here
       url: find-jobs/constructionfm/
       alt: Image alt text
       image: /images/mcf_banner1.JPG
   - infopic:
-      title: Media Features
+      title: Updates
       button: Click here
       url: /resources/
       alt: Image alt text
-      image: /images/unsplash_placceholder.jpg
+      image: /images/Homepage_pic/updates.jpeg
 ---
