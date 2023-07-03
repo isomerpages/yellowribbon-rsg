@@ -125,17 +125,17 @@ $desktop: 960px + (2 * $gap) !default;
 	color: $primary-landing !important;
 }	  
 
-// Menu/Left-nav
+// Menu/Left-nav -- changed hover color to primary
 .bp-menu-list a.is-active {
-	color: $secondary !important;
+	color: $primary !important;
 	border-bottom: 2px solid $secondary !important;
 	&:hover {
-		border-bottom: 2px solid $secondary !important;
+		border-bottom: 2px solid $primary !important;
 	}
 }
 .bp-menu-list a:hover {
-	color: $secondary !important;
-	border-bottom: 1px solid $secondary !important;
+	color: $primary !important;
+	border-bottom: 1px solid $primary !important;
 }
 
 // Button
