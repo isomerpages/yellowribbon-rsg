@@ -9,7 +9,7 @@ Common jobs in this sector include General Workers, Technicians (Building, Elect
 
 |Company|Job Title|Location|Salary Range|Link|
 |--------|--------|--------|--------|--------|
-|A N S PLUMBING & SANITARY PTE LTD|Project Engineer|D14 Geylang, Eunos|$2800 - $3800|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/project-engineer-n-s-plumbing-sanitary-b74d11f5a766dcee0e2264a63e14984b{:target="\_blank"})|
+|A N S PLUMBING & SANITARY PTE LTD|Project Engineer|D14 Geylang, Eunos|$2800 - $3800|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/project-engineer-n-s-plumbing-sanitary-b74d11f5a766dcee0e2264a63e14984b)|
 |ABS BUILDING PRODUCTS PTE. LTD.|senior project engineer / manager ( engineering )|D14 Geylang, Eunos|$5000 - $9000|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/senior-project-engineer-manager-abs-building-products-f020c6e2f9212679d6201e612c5e0e78)|
 |ABS BUS PTE. LTD.|Mechanic|D22 Jurong, Jurong Island, Tuas|$2400 - $3500|[Apply here](https://www.mycareersfuture.gov.sg/job/repair-maintenance/mechanic-abs-bus-64698f60b8e79f30af664b8b5d2cf315)|
 |ABV SYSTEMS PTE LTD|Administrator Assistant|D16 Upper East Coast, Bedok, Eastwood, Kew Drive|$1800 - $2500|[Apply here](https://www.mycareersfuture.gov.sg/job/building-construction/administrator-assistant-abv-systems-86c1beda879d774266e1feb91d3a118d)|
