@@ -3,7 +3,7 @@ title: Food and Beverage
 permalink: /find-jobs/fnb/
 description: F&B jobs
 ---
-**Use Ctr+F to search by company or job title. **
+Use **Ctr+F** to search by company or job title. 
 
 Common jobs in this sector include kitchen and service roles, as well as management positions. Sorted by posted job date (most recent at the top). 
 
