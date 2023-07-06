@@ -9,7 +9,7 @@ Jobs which require competencies across more than one sector and do not fall with
 
 |Company|Job Title|Location|Salary Range|Link|
 |--------|--------|--------|--------|--------|
-|CARLTON GLASS ENTERPRISE PTE LTD|Part Time Cleaner (Morning only, Office Building)| Loyang, Changi|$800 - $1200|[Apply here](https://www.mycareersfuture.gov.sg/job/general-work/part-time-cleaner-carlton-glass-enterprise-b0cf6678e56d6bac6e3e2af10b4f6159)|
+|CARLTON GLASS ENTERPRISE PTE LTD|Part Time Cleaner (Morning only, Office Building)| Loyang, Changi|$800 - $1200|[Apply here](https://www.mycareersfuture.gov.sg/job/general-work/part-time-cleaner-carlton-glass-enterprise-b0cf6678e56d6bac6e3e2af10b4f6159){:target="\_blank"}|
 |GAIN CITY BEST-ELECTRIC PTE LTD|General Cleaner| Kranji, Woodgrove, Woodlands|$1400 - $2000|[Apply here](https://www.mycareersfuture.gov.sg/job/general-work/general-cleaner-gain-city-best-electric-68f27b6cb9ac0dbe441dde35e058519e)|
 |CARLTON GLASS ENTERPRISE PTE LTD|Customer Service Officer (Order Processing & Outbound Finished Goods)| Loyang, Changi|$2600 - $5000|[Apply here](https://www.mycareersfuture.gov.sg/job/admin/customer-service-officer-carlton-glass-enterprise-4065847ab26850d106294360e78581dd)|
 |SINGAPORE MARRIOTT TANG PLAZA HOTEL|F&B Reservations Officer| Cairnhill, Orchard, River Valley|$2000 - $2300|[Apply here](https://www.mycareersfuture.gov.sg/job/customer-service/fb-reservations-officer-singapore-marriott-tang-plaza-hotel-f2c2ab1c0f97cc7d22ad29840fa49499)|
